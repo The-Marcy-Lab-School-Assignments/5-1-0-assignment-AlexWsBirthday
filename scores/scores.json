@@ -2,22 +2,22 @@
   "testScores": {
     "CartItem Tests": {
       "CaTe1": 1,
-      "CaTe2": 0,
-      "CaTe3": 0
+      "CaTe2": 1,
+      "CaTe3": 1
     },
     "ShoppingCart Tests": {
       "ShTe1": 1,
-      "ShTe2": 0,
-      "ShTe3": 0,
-      "ShTe4": 0,
-      "ShTe5": 0,
-      "ShTe6": 0,
-      "ShTe7": 0,
-      "ShTe8": 0,
-      "ShTe9": 0,
-      "ShTe10": 0,
-      "ShTe11": 0,
-      "ShTe12": 0
+      "ShTe2": 1,
+      "ShTe3": 1,
+      "ShTe4": 1,
+      "ShTe5": 1,
+      "ShTe6": 1,
+      "ShTe7": 1,
+      "ShTe8": 1,
+      "ShTe9": 1,
+      "ShTe10": 1,
+      "ShTe11": 1,
+      "ShTe12": 1
     }
   },
   "idToTestNameHash": {
@@ -55,8 +55,8 @@
     "vite-project/src/model/ShoppingCart.spec.js > ShoppingCart Tests > ShoppingCart.findBy returns the correct cart when given an id": "ShTe12"
   },
   "humanReadable": {
-    "CartItem Tests": "1/3",
-    "finalTestScore": "FINAL SCORE: 2/15",
-    "ShoppingCart Tests": "1/12"
+    "CartItem Tests": "3/3",
+    "finalTestScore": "FINAL SCORE: 15/15",
+    "ShoppingCart Tests": "12/12"
   }
 }

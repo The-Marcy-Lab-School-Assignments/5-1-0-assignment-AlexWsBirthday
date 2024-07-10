@@ -125,6 +125,8 @@ describe(testSuiteName, () => {
     const item2 = cart.createItem('b', 2);
     const item3 = cart.createItem('c', 3);
 
+
+
     // removing item2 using its id
     cart.removeItem(item2.id);
     expect(cart.getItems().length).toBe(2);
